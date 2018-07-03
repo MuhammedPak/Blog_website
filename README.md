@@ -1,5 +1,8 @@
 # Blog_website
-A Blog website with ASP.NET MVC,Entity Freamwork and MSSQL
+#A Blog website with ASP.NET MVC,Entity Freamwork and MSSQL
+
+
+
 ![screenshot_8](https://user-images.githubusercontent.com/32823275/42195854-afaeb5fa-7e83-11e8-80d5-21d52551bc52.png)
 
 ![screenshot_12](https://user-images.githubusercontent.com/32823275/42195924-f575ebee-7e83-11e8-81ef-948c152f900d.png)
